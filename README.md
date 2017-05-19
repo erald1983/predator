@@ -1,2 +1,0 @@
-# predator
-rai uno
