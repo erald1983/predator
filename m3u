@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,* * * * * * * * * * DIGI ALBANIA * * * * * * * * * *
+http://s1.ukhdtv.com:7860/live/UViSbzPnM2/3wVBobNsmO/675.ts
+#EXTINF:-1,ALB: Folk
+http://s1.ukhdtv.com:7860/live/UViSbzPnM2/3wVBobNsmO/1775.ts
+#EXTINF:-1,ALB: Folklorit
+http://s1.ukhdtv.com:7860/live/UViSbzPnM2/3wVBobNsmO/1776.ts
+#EXTINF:-1,ALB: super sonic
+http://s1.ukhdtv.com:7860/live/UViSbzPnM2/3wVBobNsmO/1772.ts
 #EXTINF:-1,ALB: Big Brother 1
 http://s1.ukhdtv.com:7860/live/UViSbzPnM2/3wVBobNsmO/4840.ts
+#EXTINF:-1,ALB: Big Brother 2
+http://s1.ukhdtv.com:7860/live/UViSbzPnM2/3wVBobNsmO/4841.ts
 
